@@ -6,7 +6,6 @@ print(zatruta)
 
 ile = 0
 
-
 for i in range(0,10):
     print("\n \n Osoba numer", i+1, "pije z butelek:")
     j=2**i
